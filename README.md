@@ -22,5 +22,6 @@ Building frontend projects and improving development skills.
 
 ## Links
 
-Portfolio: aarjalbhattarai.com.np
-LinkedIn: linkedin.com/in/aarjal-bhattarai
+* Portfolio: [aarjalbhattarai.com.np](https://aarjalbhattarai.com.np)
+* LinkedIn: [linkedin.com/in/aarjal-bhattarai](https://linkedin.com/in/aarjal-bhattarai)
+
