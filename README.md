@@ -8,6 +8,7 @@ Student developer interested in web development, UI design, and building modern 
 * CSS
 * JavaScript
 * Git/GitHub
+* Vite + React
 
 ## Current Focus
 
@@ -15,10 +16,12 @@ Building frontend projects and improving development skills.
 
 ## Projects
 
+* Lost&Found
 * StreamFlix
 * Site Time Tracker
 * Web Finder
 * Personal Portfolio
+
 
 ## Links
 
