@@ -1,18 +1,22 @@
-# Hi, I'm Aarjal 👋
+# Hello there, I'm Aarjal ( .- .- .-. .--- .- .-..)
 
-Student developer interested in web development, UI design, and building modern digital experiences.
+I'm a learning student developer interested in web development and building with modern digital experiences.
 
 ## Tech Stack
 
-* HTML
-* CSS
 * JavaScript
 * Git/GitHub
 * Vite + React
+* Node JS
+* Express JS
+* MongoDB
+
+  (basically MERN yes)
 
 ## Current Focus
 
-Building frontend projects and improving development skills.
+Building frontend projects and improving backend skills.
+Aim is to be a full-fledged full stack developer.
 
 ## Projects
 
