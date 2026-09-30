@@ -3,6 +3,7 @@
 ## Hello there, I'm Aarjal ( .- .- .-. .--- .- .-..)
 
 Aarjal · he/him
+![Profile views](https://komarev.com/ghpvc/?username=Aarjal&label=Profile%20views&color=blueviolet&style=flat)
 
 **Interested in Web Development & Programming**
 
