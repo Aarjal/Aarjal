@@ -1,34 +1,50 @@
-# Hello there, I'm Aarjal ( .- .- .-. .--- .- .-..)
+### Aarjal / README.md
 
-I'm a learning student developer interested in web development and building with modern digital experiences.
+## Hello there, I'm Aarjal ( .- .- .-. .--- .- .-..)
 
-## Tech Stack
+Aarjal · he/him
 
-* JavaScript
-* Git/GitHub
-* Vite + React
-* Node JS
-* Express JS
-* MongoDB
+**Interested in Web Development & Programming**
 
-  (basically MERN yes)
+📍 Kathmandu, Nepal
+🔗 [aarjalbhattarai.com.np](https://aarjalbhattarai.com.np)
+📘 Facebook: [aarjal.bhattarai](https://www.facebook.com/aarjal.bhattarai/)
+💼 LinkedIn: [in/aarjal-bhattarai](https://www.linkedin.com/in/aarjal-bhattarai)
+📸 Instagram: [aarjal__](https://www.instagram.com/aarjal__/)
 
-## Current Focus
+---
 
-Building frontend projects and improving backend skills.
-Aim is to be a full-fledged full stack developer.
+### Primary Stack
+![Skills](https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb)
 
-## Projects
+### Programming Languages
+![Skills](https://skillicons.dev/icons?i=js,html,css)
 
-* Lost&Found
-* StreamFlix
-* Site Time Tracker
-* Web Finder
-* Personal Portfolio
+### Dev Tools
+![Skills](https://skillicons.dev/icons?i=git,github,vscode)
 
+---
 
-## Links
+## 🚀 Projects
 
-* Portfolio: [aarjalbhattarai.com.np](https://aarjalbhattarai.com.np)
-* LinkedIn: [linkedin.com/in/aarjal-bhattarai](https://linkedin.com/in/aarjal-bhattarai)
+- **[Lost&Found (The_Bug)](https://github.com/Aarjal/The_Bug)** — web app for people to find lost belongings
+- **[StreamFlix](https://github.com/Aarjal/StreamFlix)** — Netflix-inspired frontend streaming UI
+- **[Site Time Tracker](https://github.com/Aarjal/Site_time_tracker)** — browser extension for tracking website usage
+- **[Personal Portfolio](https://github.com/Aarjal/Portfolio)** — my developer portfolio site
+
+---
+
+## 📊 GitHub Stats
+
+![Aarjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarjal&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarjal&layout=compact&theme=dark&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com/?user=Aarjal&theme=dark&hide_border=true)
+
+---
+
+## ⏱️ Coding Stats
+
+![Hackatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aarjal&api_domain=hackatime.hackclub.com&layout=compact&theme=dark&custom_title=Hackatime%20Stats&hide_border=true)
 
