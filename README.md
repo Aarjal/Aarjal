@@ -7,12 +7,6 @@ Aarjal · he/him
 
 **Interested in Web Development & Programming**
 
-📍 Kathmandu, Nepal
-🔗 [aarjalbhattarai.com.np](https://aarjalbhattarai.com.np)
-📘 Facebook: [aarjal.bhattarai](https://www.facebook.com/aarjal.bhattarai/)
-💼 LinkedIn: [in/aarjal-bhattarai](https://www.linkedin.com/in/aarjal-bhattarai)
-📸 Instagram: [aarjal__](https://www.instagram.com/aarjal__/)
-
 ---
 
 ### Primary Stack
