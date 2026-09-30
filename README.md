@@ -16,8 +16,7 @@ Aarjal · he/him
 ![Skills](https://skillicons.dev/icons?i=js,html,css,c,php,python)
 
 ### Dev Tools
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel)
-![Skills](https://skillicons.dev/icons?i=render&theme=light)
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=light)
 
 ### Personal Use
 ![Skills](https://skillicons.dev/icons?i=canva,discord,instagram,android,linux,ubuntu,windows)
