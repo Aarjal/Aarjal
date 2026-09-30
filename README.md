@@ -13,10 +13,15 @@ Aarjal · he/him
 ![Skills](https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb)
 
 ### Programming Languages
-![Skills](https://skillicons.dev/icons?i=js,html,css)
+![Skills](https://skillicons.dev/icons?i=js,html,css,c,php,python)
 
 ### Dev Tools
-![Skills](https://skillicons.dev/icons?i=git,github,vscode)
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,render)
+
+### Personal Use
+![Skills](https://skillicons.dev/icons?i=canva,discord,instagram,android)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
