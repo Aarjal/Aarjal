@@ -46,5 +46,6 @@ Aarjal · he/him
 
 ## ⏱️ Coding Stats
 
-![Hackatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aarjal&api_domain=hackatime.hackclub.com&layout=compact&theme=dark&custom_title=Hackatime%20Stats&hide_border=true)
+![Hackatime Stats]((https://github-readme-stats.hackclub.dev/api/wakatime?username=62751&api_domain=hackatime.hackclub.com&theme=highcontrast&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8))
+(https://heatmap.shymike.dev/?id=62751&timezone=UTC)
 
