@@ -36,9 +36,9 @@ Aarjal · he/him
 
 ## 📊 GitHub Stats
 
-![Aarjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarjal&show_icons=true&theme=dark&hide_border=true)
+![Aarjal's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Aarjal&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarjal&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aarjal&layout=compact&theme=dark&hide_border=true)
 
 ![Streak](https://streak-stats.demolab.com/?user=Aarjal&theme=dark&hide_border=true)
 
@@ -48,4 +48,5 @@ Aarjal · he/him
 
 ![Hackatime Stats]((https://github-readme-stats.hackclub.dev/api/wakatime?username=62751&api_domain=hackatime.hackclub.com&theme=highcontrast&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8))
 (https://heatmap.shymike.dev/?id=62751&timezone=UTC)
+![Hackatime Stats](https://heatmap.shymike.dev/?id=62751&timezone=UTC)
 
