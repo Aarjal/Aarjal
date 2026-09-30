@@ -16,7 +16,8 @@ Aarjal · he/him
 ![Skills](https://skillicons.dev/icons?i=js,html,css,c,php,python)
 
 ### Dev Tools
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel,canva)
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel)
+![Canva](https://go-skill-icons.vercel.app/api/icons?i=canva)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
