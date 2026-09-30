@@ -27,7 +27,7 @@ Aarjal · he/him
 
 ## 🚀 Projects
 
-- **[Lost&Found (The_Bug)](https://github.com/Aarjal/The_Bug)** — web app for people to find lost belongings
+- **[Lost&Found](https://github.com/Aarjal/The_Bug)** — web app for people to find lost belongings
 - **[StreamFlix](https://github.com/Aarjal/StreamFlix)** — Netflix-inspired frontend streaming UI
 - **[Site Time Tracker](https://github.com/Aarjal/Site_time_tracker)** — browser extension for tracking website usage
 - **[Personal Portfolio](https://github.com/Aarjal/Portfolio)** — my developer portfolio site
@@ -46,7 +46,7 @@ Aarjal · he/him
 
 ## ⏱️ Coding Stats
 
-![Hackatime Stats]((https://github-readme-stats.hackclub.dev/api/wakatime?username=62751&api_domain=hackatime.hackclub.com&theme=highcontrast&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8))
-(https://heatmap.shymike.dev/?id=62751&timezone=UTC)
-![Hackatime Stats](https://heatmap.shymike.dev/?id=62751&timezone=UTC)
+## ⏱️ Coding Stats
+
+![Hackatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aarjal&api_domain=hackatime.hackclub.com&layout=compact&theme=dark&custom_title=Hackatime%20Stats&hide_border=true)
 
