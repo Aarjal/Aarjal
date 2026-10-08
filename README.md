@@ -22,7 +22,7 @@ Aarjal · he/him
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### Personal Use
-![Skills](https://skillicons.dev/icons?i=discord,instagram,linux,ubuntu,windows)
+![Skills](https://skillicons.dev/icons?i=discord,instagram,linux,ubuntu,windows,hackclub)
 
 ---
 
