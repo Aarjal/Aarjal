@@ -13,7 +13,7 @@ Aarjal · he/him
 ![Skills](https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb)
 
 ### Programming Languages
-![Skills](https://skillicons.dev/icons?i=js,html,css,c,php,python,typescript)
+![Skills](https://skillicons.dev/icons?i=js,html,css,c,php,python)
 
 ### Dev Tools
 ![Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel)
