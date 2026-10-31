@@ -28,8 +28,6 @@ Aarjal · he/him
 
 ##  GitHub Stats
 
-![Aarjal's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Aarjal&show_icons=true&theme=dark&hide_border=true)
-
 ![Streak](https://streak-stats.demolab.com/?user=Aarjal&theme=dark&hide_border=true)
 
 ---
